@@ -47,4 +47,4 @@ The winner of the new logo competition will be announced on February 8th with th
  
  * The logo should be able to be rendered as a favicon, as well as large (e.g. on a t-shirt). A design that provides two different versions (small and large rendering) is acceptable.
  
- 
+Source: This competition is adopted from biojava/logo
