@@ -20,5 +20,5 @@ If there are any problems with your submission we'll let you know via comments o
 Submitting via email
 --------------------
 
-We strongly prefer to take submissions via pull requests. However, if you don't have a github account or aren't comfortable with git, submissions can also be sent to the [aziz.khan@ncmm.uio.no].
+We strongly prefer to take submissions via pull requests. However, if you don't have a github account or aren't comfortable with git, submissions can also be sent to the [aziz.khan@ncmm.uio.no] with a subject heading **ECRcentral Logo Competition**.
 
