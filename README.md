@@ -31,13 +31,13 @@ The winner of the new logo competition will be announced on **March 15th, 2019**
 
 ## Prize
 
-* We will acknowledge winner name on our new website and add a link this her/his academic profile.
+* The top three submissions will get a free eLife t-shirt, given you will send us your postal address.
 
-* The winner will get a free t-shirt and a gift from eLife, given you will send us your postal address.
+* We will acknowledge the final winner name on our new website.
 
 * If the winner of the new logo will be attending ISMB/ECCB 2019, any of the ECRcentral team will take the winner out for dinner.
 
-* ECRcentral will carry the new logo on its new homepage, Twitter and GitHub profile.
+* ECRcentral may carry the new logo (after any necessary edits) on its new homepage, Twitter and GitHub profile.
  
 ## Desired features
 
