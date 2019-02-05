@@ -22,8 +22,8 @@ Anybody can participate according to the following rules:
 
 ## Timeframe
 
-- All contributions needed to be uploaded by the end of February 4th 2019.
-- All votes need to be in by the end of day Wednesday February 6th 2019.
+- All contributions needed to be uploaded by the end of March 4th 2019.
+- All votes need to be in by the end of March 10th 2019.
 
 ## Announcement of Winner
 
