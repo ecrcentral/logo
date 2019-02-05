@@ -1,4 +1,4 @@
-# ECRcentral Logo Design Competition
+# ECRcentral logo design competition
 
 ECRcentral is a central platform for early career researchers community to find and discuss funding opportunities, share experiences, mentor peers, and create impact through community engagement.
 
@@ -31,7 +31,9 @@ The winner of the new logo competition will be announced on **March 15th, 2019**
 
 ## Prize
 
-* We will acknowledge winer name on our new website and add a link this her/his academic profile.
+* We will acknowledge winner name on our new website and add a link this her/his academic profile.
+
+* The winner will get a free t-shirt and a gift from eLife, given you will send us your postal address.
 
 * If the winner of the new logo will be attending ISMB/ECCB 2019, any of the ECRcentral team will take the winner out for dinner.
 
