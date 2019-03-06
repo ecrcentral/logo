@@ -22,12 +22,12 @@ Anybody can participate according to the following rules:
 
 ## Timeframe
 
-- All contributions needed to be uploaded by the end of **March 4th 2019**.
-- All votes need to be in by the end of **March 10th 2019**.
+- All contributions needed to be uploaded by the end of **March 25th 2019**.
+- All votes need to be in by the end of **April 10th 2019**.
 
 ## Announcement of Winner
 
-The winner of the new logo competition will be announced on **March 15th, 2019**.
+The winner of the new logo competition will be announced on **April 15th, 2019**.
 
 ## Prize
 
