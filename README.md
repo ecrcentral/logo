@@ -10,7 +10,7 @@ Here, we are hosting a **competition to design a new logo** for the ECRcentral p
 
 ## Winner
 
-ECRcentral logo competition is the winner is Anne Martin a postdoc at the University of Oregon. Find high resolution verions of logo **[here](winner/)**
+ECRcentral logo competition is the winner is Anne Martin a postdoc at the University of Oregon. Find high-resolution versions of the logo **[here](winner/)**
 
 <img src="https://ecrcentral.org/images/ecrcentral-logo.svg"/>
 
