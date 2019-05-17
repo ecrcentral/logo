@@ -6,6 +6,20 @@ The current logo of ECRcentral is very basic and descriptive. With the upcoming 
 
 Here, we are hosting a **competition to design a new logo** for the ECRcentral project.
 
+**Update**: Competition ended and we have a winner!!
+
+## Winner
+
+ECRcentral logo competition is the winner is Anne Martin a postdoc at the University of Oregon. Find high resolution verions of logo **[here](winner/)**
+
+<img src="https://ecrcentral.org/images/ecrcentral-logo.svg"/>
+
+### About the logo
+
+>
+
+The icon is derived from a globe subdivided with selective latitude and longitude lines to represent ECR (early career researchers). The segments created contain the letters "e" "c" and a side segment as been added to allow for formation of the "r".
+
 
 ## Rules
 
